@@ -1,4 +1,2 @@
-This is our shared experiment log.
-I am partner B
-Partner A new edit
-Partner A new contribution
+Partner A: This is my version of the shared log
+Second line stays the same
